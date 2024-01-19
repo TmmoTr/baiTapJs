@@ -1,7 +1,9 @@
 /**
- * Input
- * Step
- * Outputs
+ * Input: số thứ 1, số thứ 2, số thứ 3, số thứ 4, số thứ 5 
+ * Step:
+ * B1: lấy dữ liệu từ form
+ * B2: trung bình = 5 số cộng lại và chia 5
+ * Outputs: giá trị trung bình
  */
 
 function TB(){

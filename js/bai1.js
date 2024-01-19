@@ -1,7 +1,10 @@
 /**
- * Input
- * Step
- * Outputs
+ * Input: soNgay
+ * Step :
+ * B1: lấy dữ liệu từ form
+ * B2: luong = soNgay * 100000
+ * B3: Ktra input soNgay ko được nhỏ hơn 0
+ * Outputs: luong
  */
 
 

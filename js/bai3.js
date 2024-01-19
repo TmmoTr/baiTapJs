@@ -1,7 +1,10 @@
 /**
- * Input
- * Step
- * Outputs
+ * Input: USD
+ * Step:
+ * B1: lấy dữ liệu từ form
+ * B2: VND = USD * 23500
+ * B3:ktra số tiền không thể để trống hoặc nhỏ hơn 0
+ * Outputs : VND
  */
 
 function doiTien () {
